@@ -1,7 +1,7 @@
 # 2017261024 기수연 안드로이드 프로그래밍
 ## Markdown 명령어
 
-1. 헤더
+## 1. 헤더 ##
 * * *
 큰 제목 : 문서 제목 
 <pre><code> 
@@ -41,15 +41,18 @@ hello world!
 
 ####### This is a H7. << 일곱 번째부터 불가능
 
-2.2. BlockQuote
+* * *
+
+## 2.BlockQuote ##
+
 이메일에서 사용하는 > 블럭인용문자를 이용한다.
 
-> This is a blockqute.
+<pre><code> > This is a blockqute. </pre></code>
 This is a first blockqute.
 
-This is a second blockqute.
+>This is a second blockqute.
 
-This is a third blockqute.
+>>This is a third blockqute.
 
 이 안에서는 다른 마크다운 요소를 포함할 수 있다.
 
