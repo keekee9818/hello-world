@@ -123,21 +123,6 @@ hello world!
 * * *
 ## 6. 링크 ##
 
-+ 참조링크
-<pre><code>[link keyword][id]
-[id]: URL "Optional Title here"
-
-Link: [Google][googlelink]
-[googlelink]: https://google.com "Go google"
-</pre></code>
-
-Link: [Google][googlelink] [googlelink]: https://google.com "Go google"
-
-+ 인라인 링크
-<pre><code>syntax: [Title](link)
-</pre></code>
-Link: Google
-
 + 자동연결
 <pre><code>[네이버](https://www.naver.com/)</pre></code>
 [네이버](https://www.naver.com/)
