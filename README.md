@@ -149,10 +149,9 @@ Link: Google
 
 + 자동연결
 <pre><code>
-<http://example.com/>
-<address@example.com>
+[네이버](www.naver.com)
 </pre></code>
-http://example.com/ address@example.com
+[네이버](www.naver.com)
 
 * * *
 ## 7. 강조 ##
