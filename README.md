@@ -4,39 +4,42 @@
 1. 헤더
 * * *
 큰 제목 : 문서 제목 
-
 <pre><code> 
 HELLO WORLD! 
 ============
 </pre></code>
+
 HELLO WORLD!
 ============
-2.1. 헤더Headers
-큰제목: 문서 제목
 
-This is an H1
-=============
-This is an H1
-작은제목: 문서 부제목
+작은 제목: 문서 부제목
 
-This is an H2
+<pre><code> 
+hello world!
 -------------
-This is an H2
-글머리: 1~6까지만 지원
+</pre></code>
 
+hello world!
+-------------
+
+글 머리: 첫 번째에서 여섯 번째까지만 가능하다.
+
+<pre><code>
 # This is a H1
 ## This is a H2
 ### This is a H3
 #### This is a H4
 ##### This is a H5
 ###### This is a H6
-This is a H1
-This is a H2
-This is a H3
-This is a H4
-This is a H5
-This is a H6
-####### This is a 7.
+</pre></code>
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
+
+####### This is a H7. << 일곱 번째부터 불가능
 
 2.2. BlockQuote
 이메일에서 사용하는 > 블럭인용문자를 이용한다.
