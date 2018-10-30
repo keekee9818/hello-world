@@ -4,8 +4,7 @@
 ## 1. 헤더 ##
 
 큰 제목 : 문서 제목 
-<pre><code> 
-HELLO WORLD! 
+<pre><code> HELLO WORLD! 
 ============
 </pre></code>
 
@@ -14,8 +13,7 @@ HELLO WORLD!
 
 작은 제목: 문서 부제목
 
-<pre><code> 
-hello world!
+<pre><code> hello world!
 -------------
 </pre></code>
 
@@ -24,8 +22,7 @@ hello world!
 
 글 머리: 첫 번째에서 여섯 번째까지만 가능하다.
 
-<pre><code>
-# This is a H1
+<pre><code># This is a H1
 ## This is a H2
 ### This is a H3
 #### This is a H4
@@ -63,8 +60,7 @@ hello world!
 ## ● 순서있는 목록(번호)
 순서있는 목록은 숫자와 점을 사용한다.
 
-<pre><code>
-1. 첫번째
+<pre><code>1. 첫번째
 2. 두번째
 3. 세번째
 </pre></code>
@@ -74,10 +70,9 @@ hello world!
 3.세 번째
 
 ## ● 순서없는 목록(글머리 기호)
-<pre><code>
-* 빨강
+<pre><code>* 빨강
   * 녹색
-    * 파랑
+    * 파랑  
 
 + 빨강
   + 녹색
