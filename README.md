@@ -50,9 +50,9 @@ hello world!
 <pre><code> > This is a blockqute. </pre></code>
 >This is a first blockqute.
 
->>This is a second blockqute.
+>This is a second blockqute.
 
->>>This is a third blockqute.
+>This is a third blockqute.
 
 이 안에서는 다른 마크다운 요소를 포함할 수 있다.
 
