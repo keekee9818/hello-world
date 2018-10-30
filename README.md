@@ -4,7 +4,7 @@
 ## 1. 헤더 ##
 
 큰 제목 : 문서 제목 
-<pre><code> HELLO WORLD! 
+<pre><code>HELLO WORLD! 
 ============
 </pre></code>
 
@@ -13,7 +13,7 @@ HELLO WORLD!
 
 작은 제목: 문서 부제목
 
-<pre><code> hello world!
+<pre><code>hello world!
 -------------
 </pre></code>
 
@@ -101,8 +101,7 @@ hello world!
 4개의 공백 또는 하나의 탭으로 들여쓰기를 만나면 변환되기 시작하여 들여쓰지 않은 행을 만날때까지 변환이 계속된다.
 한줄 띄어쓰면 인식이 제대로 안되는 문제가 발생 하기도 한다.
 
-<pre><code>
-코드 연습 코드 연습
+<pre><code>코드 연습 코드 연습
 </pre></code>
 
 * * *
@@ -110,8 +109,7 @@ hello world!
 
 아래 줄은 모두 수평선을 만든다.
 마크다운 문서를 미리보기로 출력할 때 페이지 나누기 용도로 많이 사용한다.
-<pre><code>
-* * *
+<pre><code>* * *
 
 ***
 
@@ -126,8 +124,7 @@ hello world!
 ## 6. 링크 ##
 
 + 참조링크
-<pre><code>
-[link keyword][id]
+<pre><code>[link keyword][id]
 [id]: URL "Optional Title here"
 
 Link: [Google][googlelink]
@@ -137,8 +134,7 @@ Link: [Google][googlelink]
 Link: [Google][googlelink] [googlelink]: https://google.com "Go google"
 
 + 인라인 링크
-<pre><code>
-syntax: [Title](link)
+<pre><code>syntax: [Title](link)
 </pre></code>
 Link: Google
 
@@ -148,8 +144,7 @@ Link: Google
 
 * * *
 ## 7. 강조 ##
-<pre><code>
-*HELLO WORLD!*
+<pre><code>*HELLO WORLD!*
 _HELLO WORLD!_
 **HELLO WORLD!**
 __HELLO WORLD!__
