@@ -2,7 +2,7 @@
 ## Markdown 명령어
 
 ## 1. 헤더 ##
-* * *
+
 큰 제목 : 문서 제목 
 <pre><code> 
 HELLO WORLD! 
