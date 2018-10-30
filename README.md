@@ -5,7 +5,12 @@
 * * *
 큰 제목 : 문서 제목 
 
-<pre></cre
+<pre><code> 
+HELLO WORLD! 
+============
+</pre></code>
+HELLO WORLD!
+============
 2.1. 헤더Headers
 큰제목: 문서 제목
 
