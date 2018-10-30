@@ -148,10 +148,8 @@ syntax: [Title](link)
 Link: Google
 
 + 자동연결
-<pre><code>
-[네이버](www.naver.com)
-</pre></code>
-[네이버](www.naver.com)
+<pre><code>[네이버](https://www.naver.com/)</pre></code>
+[네이버](https://www.naver.com/)
 
 * * *
 ## 7. 강조 ##
